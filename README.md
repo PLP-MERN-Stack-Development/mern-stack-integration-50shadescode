@@ -2,7 +2,7 @@
 
 This assignment focuses on building a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that demonstrates seamless integration between front-end and back-end components.
 
-## Assignment Overview
+## Assignment Overview for Guru
 
 You will build a blog application with the following features:
 1. RESTful API with Express.js and MongoDB
